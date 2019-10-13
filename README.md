@@ -4,7 +4,7 @@ Watch here:
 
 List of 2,750 TED Talks by date: https://docs.google.com/spreadsheets/d/1Yv_9nDl4ocIZR0GXU3OZuBaXxER1blfwR_XHvklPpEM/edit?usp=sharing
 
-~30 MB text file of TED transcripts: 
+~30 MB text file of TED transcripts: https://github.com/lawreka/TED-ai/blob/master/ted.txt
 
 Max Woolf's gpt-2-simple for text generation: https://github.com/minimaxir/gpt-2-simple
 
