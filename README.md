@@ -1,9 +1,9 @@
 # TED-ai
-Resources for an AI-generated TED Talk, presented with TEDxgeo for The Wrong 2019
+Resources for an AI-generated TED Talk, presented with TEDxgeo for The Wrong 2019 (https://thewrong.org/tedx)
 
-Watch here: **tbd**
+Watch on Vimeo: https://vimeo.com/video/366111605
 
-Transcript: **tbd**
+Transcript: https://kathrynisabelle.com/ted
 
 List of 2,750 TED Talks by date: https://docs.google.com/spreadsheets/d/1Yv_9nDl4ocIZR0GXU3OZuBaXxER1blfwR_XHvklPpEM/edit?usp=sharing
 
