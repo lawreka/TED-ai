@@ -1,7 +1,7 @@
 # TED-ai
 Resources for an AI-generated TED Talk, presented with TEDxgeo for The Wrong 2019 (https://thewrong.org/tedx)
 
-Watch on Vimeo: https://vimeo.com/video/366111605
+Watch on Vimeo: https://vimeo.com/366111605
 
 Transcript: https://kathrynisabelle.com/ted
 
